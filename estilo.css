@@ -16,7 +16,7 @@ h1 {
   width: 300px;
   height: 400px;
   background: #4d9358;
-  border: 3px solid cyan;
+  border: 3px solid rgb(0, 145, 255);
   margin: 20px auto;
   position: relative;
   overflow: hidden;
@@ -28,7 +28,7 @@ h1 {
   position: absolute;
   width: 2px;
   height: 100%;
-  background: #555;
+  background: #d98585;
   top: 0;
 }
 
@@ -59,7 +59,7 @@ h1 {
   position: absolute;
   width: 26px;
   height: 20px;
-  background: #222;
+  background: #ab9e2b;
   top: 15px;
   left: 7px;
 }
